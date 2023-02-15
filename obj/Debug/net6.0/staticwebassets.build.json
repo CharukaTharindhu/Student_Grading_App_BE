@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5nPdAITDEbwAqytjqGscal+bCQx6lBvrUw3O5ztKpjE=",
+  "Source": "StudentGradingAPI",
+  "BasePath": "_content/StudentGradingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
